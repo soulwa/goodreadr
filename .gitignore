@@ -1,0 +1,6 @@
+# dependencies
+node_modules/
+
+# private stuff - should all config be private? for now i guess
+todo.txt
+config.json
